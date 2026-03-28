@@ -34,7 +34,6 @@ public class Prac6 {
         입력한 숫자 평균: 2.5
          */
     }
-
     public static int sum(int[] nums) {
         int temp = 0;
         for (int num : nums) {
